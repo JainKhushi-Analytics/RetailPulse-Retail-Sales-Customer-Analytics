@@ -58,7 +58,7 @@ RetailPulse is a Power BI dashboard project designed to analyze retail sales, re
 RetailPulse demonstrates how Power BI can be used to transform retail data into interactive visual reports and meaningful business insights.
 
 ## Author
-RetailPulse Project — Power BI Dashboard
+Khushi Jain
 
 ## Note
 This repository contains project documentation and dashboard files. Results and insights should be interpreted according to the available dataset and report.
