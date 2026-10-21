@@ -1,4 +1,3 @@
-# RetailPulse-Retail-Sales-Customer-Analytics
 # RetailPulse: Retail Sales & Customer Analytics
 
 ## Project Overview
